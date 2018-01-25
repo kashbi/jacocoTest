@@ -15,4 +15,17 @@ public class App
     	return id;
 
     }
+
+    public void dummyFunction(){
+        System.out.println("dummy message");
+    }
+
+    public void dummyFunction2(){
+        System.out.println("dummy message2");
+    }
+
+    public void dummyFunction3(){
+        System.out.println("dummy message2");
+    }
+
 }
