@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class AppTest {
-		//comment1234567
+		//comment12345678
 	@Test
 	public void testLengthOfTheUniqueKey() {
 
